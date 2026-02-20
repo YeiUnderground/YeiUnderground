@@ -7,8 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 - Use of **Void Linux** operating system favorite.
-- My Window Manager Favorite ***XFCE***.
-- My Homelab **OpenWRT / Devuan** 
+- My Window Manager Favorite ***Sway WM***.
+- My Homelab **OpenWRT** 
 
 :Whoami: 
 
