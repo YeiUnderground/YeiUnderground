@@ -7,8 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 - Use of **Void Linux** operating system favorite.
-- My Window Manager Favorite ***Sway WM***.
-- My Homelab **OpenWRT + Alpine Linux** 
+- My Window Manager Favorite ***Sway WM***. 
 
 :Whoami: 
 
