@@ -17,7 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,md,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,md,neovim,lua" />
   </a>
 </p>
 
